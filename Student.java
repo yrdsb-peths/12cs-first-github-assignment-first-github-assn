@@ -1,3 +1,3 @@
 public class Student{
-  public int k;
+  public int r;
 }
